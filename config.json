@@ -1,7 +1,7 @@
 {
   "name": "aurora",
   "description": "aurora主题，作者aurora",
-  "version": "1.6.24",
+  "version": "1.6.25",
   "images": "https://images.unsplash.com/photo-1654886848152-93c1baed9e14?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1975&q=80",
   "configs": [
     {
@@ -9,12 +9,6 @@
       "placeholder": "请输入接口根地址，可不填",
       "field_name": "server_url",
       "field_type": "input"
-    },
-    {
-      "label": "授权码",
-      "placeholder": "请输入授权码",
-      "field_name": "license_key",
-      "field_type": "textarea"
     },
     {
       "label": "着陆页",
