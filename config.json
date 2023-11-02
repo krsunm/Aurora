@@ -1,7 +1,7 @@
 {
   "name": "aurora",
   "description": "aurora主题，作者aurora",
-  "version": "1.6.25",
+  "version": "1.6.24",
   "images": "https://images.unsplash.com/photo-1654886848152-93c1baed9e14?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1975&q=80",
   "configs": [
     {
